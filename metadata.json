@@ -1,0 +1,6 @@
+{
+  "name": "Stone Age Grammar",
+  "description": "Interactive Present Simple English learning adventure for kids featuring Stone Age zones, teacher Shaimaa Owiess, voice audio, quizzes, games, and teacher reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
